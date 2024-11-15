@@ -1,0 +1,7 @@
+Flask
+pandas
+aiohttp
+asyncio
+tqdm
+sqlite3
+logging

@@ -1,0 +1,39 @@
+"No.","Ticker","Company","Sector","Industry","Country","Market Cap","P/E","Price","Change","Volume"
+1,"ADM","Archer Daniels Midland Co.","Consumer Defensive","Farm Products","USA",27818.19,11.66,58.18,0.38%,2778015
+2,"BF-B","Brown-Forman Corp.","Consumer Defensive","Beverages - Wineries & Distilleries","USA",21222.43,20.92,44.90,0.99%,1554995
+3,"BG","Bunge Global SA","Consumer Defensive","Farm Products","USA",13554.49,10.84,95.69,0.40%,1333586
+4,"CAG","Conagra Brands Inc","Consumer Defensive","Packaged Foods","USA",14241.09,41.31,29.78,-0.50%,3630074
+5,"CHD","Church & Dwight Co., Inc.","Consumer Defensive","Household & Personal Products","USA",24870.25,31.29,101.59,0.27%,1495181
+6,"CL","Colgate-Palmolive Co.","Consumer Defensive","Household & Personal Products","USA",83694.53,29.77,102.43,-0.22%,4075756
+7,"CLX","Clorox Co.","Consumer Defensive","Household & Personal Products","USA",17858.52,64.13,143.80,0.40%,1457597
+8,"COST","Costco Wholesale Corp","Consumer Defensive","Discount Stores","USA",359230.29,50.22,810.30,-0.81%,1700842
+9,"CPB","Campbell Soup Co.","Consumer Defensive","Packaged Foods","USA",14539.39,19.72,48.70,-0.14%,2350306
+10,"DG","Dollar General Corp.","Consumer Defensive","Discount Stores","USA",26058.15,17.26,118.50,-3.85%,2185964
+11,"DLTR","Dollar Tree Inc","Consumer Defensive","Discount Stores","USA",20425.75,,95.03,-1.60%,1412965
+12,"EL","Estee Lauder Cos., Inc.","Consumer Defensive","Household & Personal Products","USA",32833.34,51.50,91.57,-1.93%,3844740
+13,"GIS","General Mills, Inc.","Consumer Defensive","Packaged Foods","USA",38428.63,15.99,68.85,1.35%,2905287
+14,"HRL","Hormel Foods Corp.","Consumer Defensive","Packaged Foods","USA",17529.15,22.86,31.97,0.53%,1909134
+15,"HSY","Hershey Company","Consumer Defensive","Confectioners","USA",40421.59,22.19,199.82,0.22%,1525913
+16,"K","Kellanova Co","Consumer Defensive","Packaged Foods","USA",24973.48,27.73,72.96,-0.53%,5492717
+17,"KDP","Keurig Dr Pepper Inc","Consumer Defensive","Beverages - Non-Alcoholic","USA",46893.59,22.05,34.58,0.29%,5902868
+18,"KHC","Kraft Heinz Co","Consumer Defensive","Packaged Foods","USA",41918.80,22.15,34.67,-0.43%,7907812
+19,"KMB","Kimberly-Clark Corp.","Consumer Defensive","Household & Personal Products","USA",47158.74,20.73,140.02,0.68%,2392161
+20,"KO","Coca-Cola Co","Consumer Defensive","Beverages - Non-Alcoholic","USA",295053.70,27.82,68.46,0.60%,13362928
+21,"KR","Kroger Co.","Consumer Defensive","Grocery Stores","USA",38904.48,18.36,53.90,-0.42%,3624940
+22,"KVUE","Kenvue Inc","Consumer Defensive","Household & Personal Products","USA",39483.38,35.31,20.62,-1.15%,24344438
+23,"LW","Lamb Weston Holdings Inc","Consumer Defensive","Packaged Foods","USA",8347.23,11.67,58.10,1.25%,4061347
+24,"MDLZ","Mondelez International Inc.","Consumer Defensive","Confectioners","USA",92731.23,23.92,69.42,1.40%,6031109
+25,"MKC","McCormick & Co., Inc.","Consumer Defensive","Packaged Foods","USA",20848.37,28.31,77.61,0.94%,1567990
+26,"MNST","Monster Beverage Corp.","Consumer Defensive","Beverages - Non-Alcoholic","USA",52638.62,31.85,50.53,-0.53%,7285082
+27,"MO","Altria Group Inc.","Consumer Defensive","Tobacco","USA",85362.18,8.63,50.03,1.11%,10290520
+28,"PEP","PepsiCo Inc","Consumer Defensive","Beverages - Non-Alcoholic","USA",235965.58,24.92,171.79,-0.41%,5428927
+29,"PG","Procter & Gamble Co.","Consumer Defensive","Household & Personal Products","USA",400235.59,28.25,170.02,1.15%,8385348
+30,"PM","Philip Morris International Inc","Consumer Defensive","Tobacco","USA",179952.55,20.50,115.74,1.35%,3644800
+31,"SJM","J.M. Smucker Co.","Consumer Defensive","Packaged Foods","USA",12716.26,16.74,119.48,0.48%,1383436
+32,"STZ","Constellation Brands Inc","Consumer Defensive","Beverages - Brewers","USA",43326.60,17.69,237.81,-0.30%,757654
+33,"SYY","Sysco Corp.","Consumer Defensive","Food Distribution","USA",37473.00,19.35,75.25,0.08%,3170262
+34,"TAP","Molson Coors Beverage Company","Consumer Defensive","Beverages - Brewers","USA",11041.55,9.56,52.10,-3.34%,3684311
+35,"TGT","Target Corp","Consumer Defensive","Discount Stores","USA",61748.56,14.96,133.47,-0.28%,3209297
+36,"TSN","Tyson Foods, Inc.","Consumer Defensive","Farm Products","USA",21339.08,,61.14,-0.65%,2950946
+37,"WBA","Walgreens Boots Alliance Inc","Healthcare","Pharmaceutical Retailers","USA",9306.05,,10.78,-1.19%,14102987
+38,"WMT","Walmart Inc","Consumer Defensive","Discount Stores","USA",538193.29,28.58,66.91,-1.23%,18488504

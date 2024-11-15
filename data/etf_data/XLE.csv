@@ -1,0 +1,23 @@
+"No.","Ticker","Company","Sector","Industry","Country","Market Cap","P/E","Price","Change","Volume"
+1,"APA","APA Corporation","Energy","Oil & Gas E&P","USA",9994.70,2.95,27.02,-0.33%,6782064
+2,"BKR","Baker Hughes Co","Energy","Oil & Gas Equipment & Services","USA",34014.70,17.33,34.24,0.09%,7056013
+3,"COP","Conoco Phillips","Energy","Oil & Gas E&P","USA",124172.46,11.90,106.93,1.07%,7734946
+4,"CTRA","Coterra Energy Inc","Energy","Oil & Gas E&P","USA",17321.10,13.51,23.43,-0.34%,5043200
+5,"CVX","Chevron Corp.","Energy","Oil & Gas Integrated","USA",262457.36,14.13,142.41,-0.57%,8865079
+6,"DVN","Devon Energy Corp.","Energy","Oil & Gas E&P","USA",27092.20,7.83,43.17,2.83%,11857344
+7,"EOG","EOG Resources, Inc.","Energy","Oil & Gas E&P","USA",70006.03,9.50,123.12,0.70%,2726845
+8,"EQT","EQT Corp","Energy","Oil & Gas E&P","USA",13345.15,19.17,30.22,-1.91%,10023303
+9,"FANG","Diamondback Energy Inc","Energy","Oil & Gas E&P","USA",34130.71,9.89,191.38,0.89%,1454899
+10,"HAL","Halliburton Co.","Energy","Oil & Gas Equipment & Services","USA",27138.19,10.21,30.74,-0.61%,8364524
+11,"HES","Hess Corporation","Energy","Oil & Gas E&P","USA",40396.30,15.26,131.11,-0.21%,1454577
+12,"KMI","Kinder Morgan Inc","Energy","Oil & Gas Midstream","USA",46233.61,19.00,20.80,0.68%,15593465
+13,"MPC","Marathon Petroleum Corp","Energy","Oil & Gas Refining & Marketing","USA",59667.09,8.90,169.35,-0.90%,1753484
+14,"MRO","Marathon Oil Corporation","Energy","Oil & Gas E&P","USA",15024.95,11.14,26.86,0.98%,5978916
+15,"OKE","Oneok Inc.","Energy","Oil & Gas Midstream","USA",48477.97,18.11,83.06,0.90%,3701506
+16,"OXY","Occidental Petroleum Corp.","Energy","Oil & Gas E&P","USA",51407.98,15.35,56.11,-0.04%,9875527
+17,"PSX","Phillips 66","Energy","Oil & Gas Refining & Marketing","USA",55627.95,11.41,132.90,-0.14%,2146809
+18,"SLB","Schlumberger Ltd.","Energy","Oil & Gas Equipment & Services","USA",60854.34,14.02,42.86,-1.24%,9256964
+19,"TRGP","Targa Resources Corp","Energy","Oil & Gas Midstream","USA",29190.22,27.93,133.24,1.23%,3539303
+20,"VLO","Valero Energy Corp.","Energy","Oil & Gas Refining & Marketing","USA",47502.74,8.47,148.27,-0.39%,2148896
+21,"WMB","Williams Cos Inc","Energy","Oil & Gas Midstream","USA",52413.99,18.62,43.00,0.40%,9579549
+22,"XOM","Exxon Mobil Corp.","Energy","Oil & Gas Integrated","USA",513946.58,13.85,115.68,1.33%,13658970

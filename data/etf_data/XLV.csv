@@ -1,0 +1,64 @@
+"No.","Ticker","Company","Sector","Industry","Country","Market Cap","P/E","Price","Change","Volume"
+1,"A","Agilent Technologies Inc.","Healthcare","Diagnostics & Research","USA",39084.17,31.65,133.96,-1.69%,1553900
+2,"ABBV","Abbvie Inc","Healthcare","Drug Manufacturers - General","USA",331118.27,62.60,187.51,0.97%,6351035
+3,"ABT","Abbott Laboratories","Healthcare","Medical Devices","USA",191284.61,34.70,109.94,0.40%,6365135
+4,"ALGN","Align Technology, Inc.","Healthcare","Medical Devices","USA",15241.04,34.61,204.03,-1.13%,742849
+5,"AMGN","AMGEN Inc.","Healthcare","Drug Manufacturers - General","USA",167634.37,53.83,312.50,-5.00%,4617878
+6,"BAX","Baxter International Inc.","Healthcare","Medical Instruments & Supplies","USA",18645.53,,36.59,-0.89%,5157393
+7,"BDX","Becton Dickinson & Co.","Healthcare","Medical Instruments & Supplies","USA",67236.48,47.86,232.62,-1.23%,1104432
+8,"BIIB","Biogen Inc","Healthcare","Drug Manufacturers - General","USA",29099.95,25.16,199.78,-0.17%,971265
+9,"BIO","Bio-Rad Laboratories Inc.","Healthcare","Medical Devices","USA",9089.04,,318.69,-2.52%,163816
+10,"BMY","Bristol-Myers Squibb Co.","Healthcare","Drug Manufacturers - General","USA",94274.10,,46.50,-1.71%,16891644
+11,"BSX","Boston Scientific Corp.","Healthcare","Medical Devices","USA",108650.64,59.69,73.78,0.03%,4624119
+12,"CAH","Cardinal Health, Inc.","Healthcare","Medical Distribution","USA",24286.36,44.20,99.71,0.19%,1558455
+13,"CI","Cigna Group","Healthcare","Healthcare Plans","USA",91974.75,25.88,329.01,-0.09%,1933696
+14,"CNC","Centene Corp.","Healthcare","Healthcare Plans","USA",39336.52,14.19,74.78,-0.87%,3658258
+15,"COO","Cooper Companies, Inc.","Healthcare","Medical Instruments & Supplies","USA",18279.22,53.99,91.80,-0.75%,717397
+16,"COR","Cencora Inc.","Healthcare","Medical Distribution","USA",47508.76,26.17,241.10,0.53%,1051450
+17,"CRL","Charles River Laboratories International Inc.","Healthcare","Diagnostics & Research","USA",10299.94,23.22,199.96,-12.60%,3954873
+18,"CTLT","Catalent Inc.","Healthcare","Drug Manufacturers - Specialty & Generic","USA",10771.93,,59.52,-0.07%,1622681
+19,"CVS","CVS Health Corp","Healthcare","Healthcare Plans","USA",70890.75,9.92,56.47,-3.21%,14972702
+20,"DGX","Quest Diagnostics, Inc.","Healthcare","Diagnostics & Research","USA",16267.19,19.71,146.13,-0.52%,1090306
+21,"DHR","Danaher Corp.","Healthcare","Diagnostics & Research","USA",190165.11,46.73,263.31,-2.10%,2805321
+22,"DVA","DaVita Inc","Healthcare","Medical Care Facilities","USA",11750.05,14.26,133.98,-2.20%,1431806
+23,"DXCM","Dexcom Inc","Healthcare","Medical Devices","USA",27778.60,42.72,69.32,-7.88%,10004855
+24,"ELV","Elevance Health Inc","Healthcare","Healthcare Plans","USA",120847.16,18.27,521.14,-0.49%,731491
+25,"EW","Edwards Lifesciences Corp","Healthcare","Medical Devices","USA",36788.57,25.13,61.07,-1.52%,6795240
+26,"GEHC","GE HealthCare Technologies Inc","Healthcare","Medical Devices","USA",36231.40,23.02,79.34,-2.71%,2400886
+27,"GILD","Gilead Sciences, Inc.","Healthcare","Drug Manufacturers - General","USA",92192.90,206.30,74.00,-0.26%,4214501
+28,"HCA","HCA Healthcare Inc","Healthcare","Medical Care Facilities","USA",90910.32,16.53,352.27,-0.19%,824079
+29,"HOLX","Hologic, Inc.","Healthcare","Medical Instruments & Supplies","USA",19020.59,27.94,81.89,-0.68%,1954264
+30,"HSIC","Henry Schein Inc.","Healthcare","Medical Distribution","USA",8421.85,24.31,65.77,2.89%,3485212
+31,"HUM","Humana Inc.","Healthcare","Healthcare Plans","USA",41605.42,24.63,345.56,-2.73%,943990
+32,"IDXX","Idexx Laboratories, Inc.","Healthcare","Diagnostics & Research","USA",38575.31,46.30,467.07,-0.49%,648661
+33,"INCY","Incyte Corp.","Healthcare","Biotechnology","USA",11611.85,169.88,60.29,-1.60%,2015519
+34,"IQV","IQVIA Holdings Inc","Healthcare","Diagnostics & Research","USA",41859.73,29.78,229.62,-3.22%,1431941
+35,"ISRG","Intuitive Surgical Inc","Healthcare","Medical Instruments & Supplies","USA",159644.54,77.14,449.26,0.36%,1713059
+36,"JNJ","Johnson & Johnson","Healthcare","Drug Manufacturers - General","USA",382510.42,22.97,158.90,-0.04%,5992756
+37,"LH","Labcorp Holdings Inc.","Healthcare","Diagnostics & Research","USA",18417.47,41.66,219.36,-2.88%,1149891
+38,"LLY","Lilly(Eli) & Co","Healthcare","Drug Manufacturers - General","USA",733841.87,115.63,772.14,-2.65%,4401282
+39,"MCK","Mckesson Corporation","Healthcare","Medical Distribution","USA",80097.22,27.61,617.51,0.52%,872088
+40,"MDT","Medtronic Plc","Healthcare","Medical Devices","Ireland",103979.27,29.36,81.09,0.38%,5595799
+41,"MOH","Molina Healthcare Inc","Healthcare","Healthcare Plans","USA",19607.56,18.32,334.60,-1.22%,659951
+42,"MRK","Merck & Co Inc","Healthcare","Drug Manufacturers - General","USA",285140.77,20.85,112.49,1.21%,9747698
+43,"MRNA","Moderna Inc","Healthcare","Biotechnology","USA",31347.82,,81.55,-0.91%,4318176
+44,"MTD","Mettler-Toledo International, Inc.","Healthcare","Diagnostics & Research","USA",29005.81,37.37,1357.95,-1.77%,132194
+45,"PFE","Pfizer Inc.","Healthcare","Drug Manufacturers - General","USA",163484.30,,28.85,-1.60%,32851724
+46,"PODD","Insulet Corporation","Healthcare","Medical Devices","USA",13334.92,57.58,190.39,-3.04%,963683
+47,"REGN","Regeneron Pharmaceuticals, Inc.","Healthcare","Biotechnology","USA",117692.92,28.28,1067.80,0.15%,502528
+48,"RMD","Resmed Inc.","Healthcare","Medical Instruments & Supplies","USA",30989.20,30.48,210.94,-3.61%,1291417
+49,"RVTY","Revvity Inc.","Healthcare","Diagnostics & Research","USA",14268.82,65.17,115.64,-3.66%,1131143
+50,"SOLV","Solventum Corp","Healthcare","Health Information Services","USA",9654.49,,55.90,-2.70%,1519243
+51,"STE","Steris Plc","Healthcare","Medical Devices","Ireland",23084.44,57.91,233.53,-2.36%,804479
+52,"SYK","Stryker Corp.","Healthcare","Medical Devices","USA",121789.97,35.64,319.60,-0.95%,1350572
+53,"TECH","Bio-Techne Corp","Healthcare","Biotechnology","USA",11182.59,56.40,70.96,-9.51%,2594523
+54,"TFX","Teleflex Incorporated","Healthcare","Medical Instruments & Supplies","USA",10616.61,40.45,225.31,-2.39%,796409
+55,"TMO","Thermo Fisher Scientific Inc.","Healthcare","Diagnostics & Research","USA",224375.34,36.43,587.37,-2.43%,1692108
+56,"UHS","Universal Health Services, Inc.","Healthcare","Medical Care Facilities","USA",14193.85,15.55,212.07,-0.02%,978943
+57,"UNH","Unitedhealth Group Inc","Healthcare","Healthcare Plans","USA",521008.73,37.51,566.08,-0.40%,4320737
+58,"VRTX","Vertex Pharmaceuticals, Inc.","Healthcare","Biotechnology","USA",120246.21,,465.89,-1.77%,1649994
+59,"VTRS","Viatris Inc","Healthcare","Drug Manufacturers - Specialty & Generic","USA",13526.12,,11.36,0.09%,11623793
+60,"WAT","Waters Corp.","Healthcare","Diagnostics & Research","USA",19105.02,32.07,321.85,-2.73%,359728
+61,"WST","West Pharmaceutical Services, Inc.","Healthcare","Medical Instruments & Supplies","USA",21310.08,41.78,293.77,-3.51%,557499
+62,"ZBH","Zimmer Biomet Holdings Inc","Healthcare","Medical Devices","USA",21768.29,22.91,105.81,-3.43%,3050745
+63,"ZTS","Zoetis Inc","Healthcare","Drug Manufacturers - Specialty & Generic","USA",84310.55,36.18,184.77,-0.28%,2097112

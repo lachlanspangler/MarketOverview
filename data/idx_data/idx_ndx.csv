@@ -1,0 +1,102 @@
+"No.","Ticker","Company","Sector","Industry","Country","Market Cap","P/E","Price","Change","Volume"
+1,"AAPL","Apple Inc","Technology","Consumer Electronics","USA",3243186.53,32.48,213.31,1.66%,47115011
+2,"ABNB","Airbnb Inc","Consumer Cyclical","Travel Services","USA",72624.44,15.61,114.64,1.44%,7998794
+3,"ADBE","Adobe Inc","Technology","Software - Infrastructure","USA",235108.41,47.62,530.24,3.24%,2154013
+4,"ADI","Analog Devices Inc.","Technology","Semiconductors","USA",106012.44,50.01,213.64,6.12%,4509787
+5,"ADP","Automatic Data Processing Inc.","Industrials","Staffing & Employment Services","USA",107557.32,28.87,262.79,1.50%,1968045
+6,"ADSK","Autodesk Inc.","Technology","Software - Application","USA",51569.39,51.85,239.29,2.89%,911206
+7,"AEP","American Electric Power Company Inc.","Utilities","Utilities - Regulated Electric","USA",52169.05,19.56,98.04,-1.54%,3077405
+8,"AMAT","Applied Materials Inc.","Technology","Semiconductor Equipment & Materials","USA",157771.59,21.90,190.55,6.74%,8633761
+9,"AMD","Advanced Micro Devices Inc.","Technology","Semiconductors","USA",220631.21,164.26,136.32,5.95%,48876993
+10,"AMGN","AMGEN Inc.","Healthcare","Drug Manufacturers - General","USA",174173.46,55.94,324.69,3.90%,2746618
+11,"AMZN","Amazon.com Inc.","Consumer Cyclical","Internet Retail","USA",1740170.51,39.72,165.80,1.86%,44548199
+12,"ANSS","Ansys Inc.","Technology","Software - Application","USA",27008.75,54.69,309.06,3.43%,348163
+13,"ARM","Arm Holdings plc. ADR","Technology","Semiconductors","United Kingdom",128851.84,301.12,118.43,10.59%,9868459
+14,"ASML","ASML Holding NV","Technology","Semiconductor Equipment & Materials","Netherlands",344891.65,47.35,876.65,4.82%,1446740
+15,"AVGO","Broadcom Inc","Technology","Semiconductors","USA",678402.24,62.70,145.74,6.95%,27537427
+16,"AZN","Astrazeneca plc ADR","Healthcare","Drug Manufacturers - General","United Kingdom",253780.83,39.66,81.85,1.53%,4124253
+17,"BIIB","Biogen Inc","Healthcare","Drug Manufacturers - General","USA",29724.84,25.70,204.07,2.15%,1198462
+18,"BKNG","Booking Holdings Inc","Consumer Cyclical","Travel Services","USA",113795.38,23.77,3394.85,2.70%,377308
+19,"BKR","Baker Hughes Co","Energy","Oil & Gas Equipment & Services","USA",34968.38,17.82,35.20,2.80%,5944551
+20,"CCEP","Coca-Cola Europacific Partners Plc","Consumer Defensive","Beverages - Non-Alcoholic","United Kingdom",33633.71,19.33,73.30,0.05%,1699802
+21,"CDNS","Cadence Design Systems, Inc.","Technology","Software - Application","USA",73569.96,69.48,268.68,7.34%,3226610
+22,"CDW","CDW Corp","Technology","Information Technology Services","USA",28360.37,26.01,212.31,1.59%,758217
+23,"CEG","Constellation Energy Corporation","Utilities","Utilities - Renewable","USA",58482.41,24.93,187.03,4.10%,3338598
+24,"CHTR","Charter Communications Inc.","Communication Services","Telecom Services","USA",51948.80,11.60,363.94,2.83%,917921
+25,"CMCSA","Comcast Corp","Communication Services","Telecom Services","USA",152382.87,10.49,39.35,2.18%,13666980
+26,"COST","Costco Wholesale Corp","Consumer Defensive","Discount Stores","USA",372144.50,52.03,839.43,3.59%,2342643
+27,"CPRT","Copart, Inc.","Industrials","Specialty Business Services","USA",48201.61,35.12,50.09,1.83%,4756270
+28,"CRWD","Crowdstrike Holdings Inc","Technology","Software - Infrastructure","USA",58532.95,452.02,240.52,4.27%,6644221
+29,"CSCO","Cisco Systems, Inc.","Technology","Communication Equipment","USA",184640.37,15.44,45.83,1.57%,18361973
+30,"CSGP","Costar Group, Inc.","Real Estate","Real Estate Services","USA",30306.19,141.50,73.95,0.01%,2146170
+31,"CSX","CSX Corp.","Industrials","Railroads","USA",66401.85,18.79,34.25,1.87%,8515938
+32,"CTAS","Cintas Corporation","Industrials","Specialty Business Services","USA",75620.83,49.53,750.43,1.38%,354326
+33,"CTSH","Cognizant Technology Solutions Corp.","Technology","Information Technology Services","USA",36545.01,16.81,73.73,0.77%,3796626
+34,"DASH","DoorDash Inc","Communication Services","Internet Content & Information","USA",50983.17,,124.76,2.69%,5212115
+35,"DDOG","Datadog Inc","Technology","Software - Application","USA",38153.07,351.17,114.06,5.57%,9761012
+36,"DLTR","Dollar Tree Inc","Consumer Defensive","Discount Stores","USA",20404.25,,94.93,-0.11%,1476889
+37,"DXCM","Dexcom Inc","Healthcare","Medical Devices","USA",28652.19,44.06,71.50,3.14%,5553859
+38,"EA","Electronic Arts, Inc.","Communication Services","Electronic Gaming & Multimedia","USA",38842.69,34.54,147.02,1.81%,1457417
+39,"EXC","Exelon Corp.","Utilities","Utilities - Regulated Electric","USA",37558.77,15.48,37.54,-0.79%,7353952
+40,"FANG","Diamondback Energy Inc","Energy","Oil & Gas E&P","USA",35220.37,10.21,197.49,3.19%,1319590
+41,"FAST","Fastenal Co.","Industrials","Industrial Distribution","USA",37892.25,32.94,66.17,1.83%,2019102
+42,"FTNT","Fortinet Inc","Technology","Software - Infrastructure","USA",52467.40,40.66,68.68,-1.79%,10954002
+43,"GEHC","GE HealthCare Technologies Inc","Healthcare","Medical Devices","USA",37592.25,23.89,82.32,3.76%,1632230
+44,"GFS","GlobalFoundries Inc","Technology","Semiconductors","USA",24625.32,30.31,44.33,3.82%,1513323
+45,"GILD","Gilead Sciences, Inc.","Healthcare","Drug Manufacturers - General","USA",94173.80,210.73,75.59,2.15%,7780672
+46,"GOOG","Alphabet Inc","Communication Services","Internet Content & Information","USA",2016870.35,23.50,163.84,1.92%,15707405
+47,"GOOGL","Alphabet Inc","Communication Services","Internet Content & Information","USA",1994589.28,23.24,162.03,1.94%,25559015
+48,"HON","Honeywell International Inc","Industrials","Conglomerates","USA",129817.06,22.79,199.82,0.96%,2461010
+49,"IDXX","Idexx Laboratories, Inc.","Healthcare","Diagnostics & Research","USA",39830.63,47.97,483.91,3.61%,515222
+50,"ILMN","Illumina Inc","Healthcare","Diagnostics & Research","USA",20183.31,,126.70,4.62%,2064029
+51,"INTC","Intel Corp.","Technology","Semiconductors","USA",87225.93,89.24,20.49,7.90%,96614005
+52,"INTU","Intuit Inc","Technology","Software - Application","USA",175031.84,57.86,626.12,2.74%,1042335
+53,"ISRG","Intuitive Surgical Inc","Healthcare","Medical Instruments & Supplies","USA",164743.81,79.60,463.61,3.19%,1289233
+54,"KDP","Keurig Dr Pepper Inc","Consumer Defensive","Beverages - Non-Alcoholic","USA",46825.79,22.02,34.53,-0.14%,5334794
+55,"KHC","Kraft Heinz Co","Consumer Defensive","Packaged Foods","USA",42571.71,22.49,35.21,1.56%,6300473
+56,"KLAC","KLA Corp.","Technology","Semiconductor Equipment & Materials","USA",101130.34,37.08,752.29,7.82%,1037338
+57,"LIN","Linde Plc.","Basic Materials","Specialty Chemicals","United Kingdom",213700.35,34.06,447.54,1.29%,1491255
+58,"LRCX","Lam Research Corp.","Technology","Semiconductor Equipment & Materials","USA",104478.26,27.55,799.13,6.83%,1490475
+59,"LULU","Lululemon Athletica inc.","Consumer Cyclical","Apparel Retail","Canada",30218.75,19.37,241.75,3.56%,1762019
+60,"MAR","Marriott International, Inc.","Consumer Cyclical","Lodging","USA",60752.02,21.58,215.80,0.48%,1369588
+61,"MCHP","Microchip Technology, Inc.","Technology","Semiconductors","USA",41460.72,30.87,77.28,7.33%,8582069
+62,"MDB","MongoDB Inc","Technology","Software - Infrastructure","USA",17199.11,,234.48,4.26%,1008197
+63,"MDLZ","Mondelez International Inc.","Consumer Defensive","Confectioners","USA",93880.02,24.21,70.28,1.24%,6236869
+64,"MELI","MercadoLibre Inc","Consumer Cyclical","Internet Retail","USA",94778.58,67.58,1869.40,0.52%,345181
+65,"META","Meta Platforms Inc","Communication Services","Internet Content & Information","USA",1289272.18,26.02,509.63,4.24%,16114536
+66,"MNST","Monster Beverage Corp.","Consumer Defensive","Beverages - Non-Alcoholic","USA",46883.06,28.02,45.01,-10.93%,27320212
+67,"MRNA","Moderna Inc","Healthcare","Biotechnology","USA",32412.61,,84.32,3.40%,3536805
+68,"MRVL","Marvell Technology Inc","Technology","Semiconductors","USA",52940.10,,61.16,8.92%,13039878
+69,"MSFT","Microsoft Corporation","Technology","Software - Infrastructure","USA",2993210.90,34.12,402.69,1.07%,20184365
+70,"MU","Micron Technology Inc.","Technology","Semiconductors","USA",102090.90,,92.07,6.07%,24725762
+71,"NFLX","Netflix Inc.","Communication Services","Entertainment","USA",270527.30,39.39,630.35,3.09%,3279615
+72,"NVDA","NVIDIA Corp","Technology","Semiconductors","USA",2582262.03,61.40,104.97,6.13%,390577277
+73,"NXPI","NXP Semiconductors NV","Technology","Semiconductors","Netherlands",62469.99,22.91,245.24,6.96%,2776025
+74,"ODFL","Old Dominion Freight Line, Inc.","Industrials","Trucking","USA",42002.80,33.60,196.00,1.48%,2529204
+75,"ON","ON Semiconductor Corp.","Technology","Semiconductors","USA",30940.44,16.45,72.23,8.80%,9541682
+76,"ORLY","O'Reilly Automotive, Inc.","Consumer Cyclical","Specialty Retail","USA",66009.80,28.21,1120.90,1.07%,281674
+77,"PANW","Palo Alto Networks Inc","Technology","Software - Infrastructure","USA",102764.40,46.20,317.37,4.33%,2218061
+78,"PAYX","Paychex Inc.","Industrials","Staffing & Employment Services","USA",44789.37,26.64,124.37,0.93%,2028041
+79,"PCAR","Paccar Inc.","Industrials","Farm & Heavy Construction Machinery","USA",48899.24,9.88,93.28,1.79%,2338464
+80,"PDD","PDD Holdings Inc ADR","Consumer Cyclical","Internet Retail","China",183372.00,18.23,138.02,3.66%,6864796
+81,"PEP","PepsiCo Inc","Consumer Defensive","Beverages - Non-Alcoholic","USA",236762.25,25.00,172.37,0.34%,5112234
+82,"PYPL","PayPal Holdings Inc","Financial","Credit Services","USA",65715.37,15.57,64.28,2.45%,9748815
+83,"QCOM","Qualcomm, Inc.","Technology","Semiconductors","USA",183754.30,21.38,164.95,5.66%,9581882
+84,"REGN","Regeneron Pharmaceuticals, Inc.","Healthcare","Biotechnology","USA",122713.43,29.48,1113.35,4.27%,631072
+85,"ROP","Roper Technologies Inc","Technology","Software - Application","USA",56067.75,39.16,523.02,1.51%,347139
+86,"ROST","Ross Stores, Inc.","Consumer Cyclical","Apparel Retail","USA",46439.62,23.46,139.22,2.12%,1892532
+87,"SBUX","Starbucks Corp.","Consumer Cyclical","Restaurants","USA",85839.90,21.23,75.75,0.61%,8986480
+88,"SMCI","Super Micro Computer Inc","Technology","Computer Hardware","USA",29862.09,25.62,509.94,3.50%,11803901
+89,"SNPS","Synopsys, Inc.","Technology","Software - Infrastructure","USA",78912.90,56.03,515.03,5.11%,1110342
+90,"TEAM","Atlassian Corporation","Technology","Software - Application","USA",36127.04,,138.79,1.00%,1526860
+91,"TMUS","T-Mobile US Inc","Communication Services","Telecom Services","USA",225900.28,24.24,193.61,1.58%,5437151
+92,"TSLA","Tesla Inc","Consumer Cyclical","Auto Manufacturers","USA",635222.21,55.84,198.84,3.69%,64834180
+93,"TTD","Trade Desk Inc","Technology","Software - Application","USA",43175.50,219.20,88.27,3.96%,6268343
+94,"TTWO","Take-Two Interactive Software, Inc.","Communication Services","Electronic Gaming & Multimedia","USA",24286.50,,138.78,2.29%,2619799
+95,"TXN","Texas Instruments Inc.","Technology","Semiconductors","USA",176492.57,33.53,193.30,5.01%,6180253
+96,"VRSK","Verisk Analytics Inc","Industrials","Consulting Services","USA",37684.33,42.97,264.60,1.65%,672346
+97,"VRTX","Vertex Pharmaceuticals, Inc.","Healthcare","Biotechnology","USA",120264.27,,465.96,0.02%,1545000
+98,"WBD","Warner Bros. Discovery Inc","Communication Services","Entertainment","USA",17201.18,,7.02,-8.95%,71211406
+99,"WDAY","Workday Inc","Technology","Software - Application","USA",56227.70,38.31,212.18,0.94%,2014413
+100,"XEL","Xcel Energy, Inc.","Utilities","Utilities - Regulated Electric","USA",32418.63,17.38,58.15,-0.36%,3025002
+101,"ZS","Zscaler Inc","Technology","Software - Infrastructure","USA",25953.97,,171.71,3.32%,1304227

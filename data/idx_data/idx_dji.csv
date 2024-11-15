@@ -1,0 +1,31 @@
+"No.","Ticker","Company","Sector","Industry","Country","Market Cap","P/E","Price","Change","Volume"
+1,"AAPL","Apple Inc","Technology","Consumer Electronics","USA",3243186.53,32.48,213.31,1.66%,47115011
+2,"AMGN","AMGEN Inc.","Healthcare","Drug Manufacturers - General","USA",174173.46,55.94,324.69,3.90%,2746618
+3,"AMZN","Amazon.com Inc.","Consumer Cyclical","Internet Retail","USA",1740170.51,39.72,165.80,1.86%,44548199
+4,"AXP","American Express Co.","Financial","Credit Services","USA",166025.92,17.42,233.54,2.07%,2239094
+5,"BA","Boeing Co.","Industrials","Aerospace & Defense","USA",104052.62,,168.87,3.45%,6061552
+6,"CAT","Caterpillar Inc.","Industrials","Farm & Heavy Construction Machinery","USA",164399.05,15.31,336.16,3.18%,2267885
+7,"CRM","Salesforce Inc","Technology","Software - Application","USA",241397.28,44.80,249.12,3.78%,4472303
+8,"CSCO","Cisco Systems, Inc.","Technology","Communication Equipment","USA",184640.37,15.44,45.83,1.57%,18361973
+9,"CVX","Chevron Corp.","Energy","Oil & Gas Integrated","USA",266290.75,14.34,144.49,1.46%,7527896
+10,"DIS","Walt Disney Co","Communication Services","Entertainment","USA",156708.52,32.97,85.96,0.00%,21881049
+11,"DOW","Dow Inc","Basic Materials","Chemicals","USA",36917.46,32.60,52.67,0.96%,3362593
+12,"GS","Goldman Sachs Group, Inc.","Financial","Capital Markets","USA",153406.16,15.60,485.77,2.70%,1936418
+13,"HD","Home Depot, Inc.","Consumer Cyclical","Home Improvement Retail","USA",345417.42,23.37,348.34,1.73%,3591016
+14,"HON","Honeywell International Inc","Industrials","Conglomerates","USA",129817.06,22.79,199.82,0.96%,2461010
+15,"IBM","International Business Machines Corp.","Technology","Information Technology Services","USA",177422.70,21.23,192.61,3.11%,3711651
+16,"INTC","Intel Corp.","Technology","Semiconductors","USA",87225.93,89.24,20.49,7.90%,96614005
+17,"JNJ","Johnson & Johnson","Healthcare","Drug Manufacturers - General","USA",385688.00,23.16,160.22,0.83%,5094738
+18,"JPM","JPMorgan Chase & Co.","Financial","Banks - Diversified","USA",580583.34,11.38,204.06,1.83%,7757777
+19,"KO","Coca-Cola Co","Consumer Defensive","Beverages - Non-Alcoholic","USA",296217.38,27.93,68.73,0.39%,15236505
+20,"MCD","McDonald's Corp","Consumer Cyclical","Restaurants","USA",195441.21,23.73,271.19,0.68%,3227101
+21,"MMM","3M Co.","Industrials","Conglomerates","USA",68740.16,73.99,125.13,1.87%,2932576
+22,"MRK","Merck & Co Inc","Healthcare","Drug Manufacturers - General","USA",288765.55,21.11,113.92,1.27%,8277333
+23,"MSFT","Microsoft Corporation","Technology","Software - Infrastructure","USA",2993210.90,34.12,402.69,1.07%,20184365
+24,"NKE","Nike, Inc.","Consumer Cyclical","Footwear & Accessories","USA",111244.94,19.91,74.19,2.16%,8824963
+25,"PG","Procter & Gamble Co.","Consumer Defensive","Household & Personal Products","USA",402236.51,28.39,170.87,0.50%,6386799
+26,"TRV","Travelers Companies Inc.","Financial","Insurance - Property & Casualty","USA",48248.22,13.39,211.68,1.10%,1033358
+27,"UNH","Unitedhealth Group Inc","Healthcare","Healthcare Plans","USA",521155.96,37.53,566.24,0.03%,2860777
+28,"V","Visa Inc","Financial","Credit Services","USA",513400.67,28.23,259.83,1.29%,8223398
+29,"VZ","Verizon Communications Inc","Communication Services","Telecom Services","USA",170569.75,15.20,40.52,0.60%,13234170
+30,"WMT","Walmart Inc","Consumer Defensive","Discount Stores","USA",544225.95,28.90,67.66,1.12%,12483327

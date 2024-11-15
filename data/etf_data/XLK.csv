@@ -1,0 +1,68 @@
+"No.","Ticker","Company","Sector","Industry","Country","Market Cap","P/E","Price","Change","Volume"
+1,"AAPL","Apple Inc","Technology","Consumer Electronics","USA",3190124.37,31.95,209.82,1.25%,63414647
+2,"ACN","Accenture plc","Technology","Information Technology Services","Ireland",199201.36,29.11,318.02,-0.21%,2327472
+3,"ADBE","Adobe Inc","Technology","Software - Infrastructure","USA",227739.11,46.13,513.62,-0.11%,1662608
+4,"ADI","Analog Devices Inc.","Technology","Semiconductors","USA",99894.05,47.13,201.31,-1.74%,4177025
+5,"ADSK","Autodesk Inc.","Technology","Software - Application","USA",50121.16,50.39,232.57,-0.71%,875709
+6,"AKAM","Akamai Technologies Inc","Technology","Software - Infrastructure","USA",14110.92,23.07,92.64,0.35%,1256640
+7,"AMAT","Applied Materials Inc.","Technology","Semiconductor Equipment & Materials","USA",147802.71,20.51,178.51,-2.62%,6647269
+8,"AMD","Advanced Micro Devices Inc.","Technology","Semiconductors","USA",208249.82,155.04,128.67,-1.16%,54559526
+9,"ANET","Arista Networks Inc","Technology","Computer Hardware","USA",99689.22,41.13,317.33,-1.92%,2028035
+10,"ANSS","Ansys Inc.","Technology","Software - Application","USA",26112.13,52.87,298.80,-1.32%,437652
+11,"APH","Amphenol Corp.","Technology","Electronic Components","USA",72305.57,35.77,60.04,0.27%,10106640
+12,"AVGO","Broadcom Inc","Technology","Semiconductors","USA",634320.52,58.63,136.27,-5.32%,29659777
+13,"CDNS","Cadence Design Systems, Inc.","Technology","Software - Application","USA",68539.88,64.73,250.31,-3.65%,2483751
+14,"CDW","CDW Corp","Technology","Information Technology Services","USA",27916.88,25.60,208.99,0.26%,967181
+15,"CRM","Salesforce Inc","Technology","Software - Application","USA",232598.75,43.17,240.04,0.68%,4033906
+16,"CRWD","Crowdstrike Holdings Inc","Technology","Software - Infrastructure","USA",56135.85,433.51,230.67,-0.44%,9338677
+17,"CSCO","Cisco Systems, Inc.","Technology","Communication Equipment","USA",181779.90,15.20,45.12,-0.09%,18285151
+18,"CTSH","Cognizant Technology Solutions Corp.","Technology","Information Technology Services","USA",36267.44,16.68,73.17,0.72%,3887821
+19,"ENPH","Enphase Energy Inc","Technology","Solar","USA",14005.14,113.03,103.42,1.86%,3291266
+20,"EPAM","EPAM Systems Inc","Technology","Information Technology Services","USA",12067.61,28.49,208.17,0.73%,766042
+21,"FFIV","F5 Inc","Technology","Software - Infrastructure","USA",10904.39,20.00,186.05,-1.07%,314252
+22,"FICO","Fair Isaac Corp.","Technology","Software - Application","USA",40914.81,87.73,1668.63,0.82%,191599
+23,"FSLR","First Solar Inc","Technology","Solar","USA",22347.76,18.65,208.76,-0.80%,1500224
+24,"FTNT","Fortinet Inc","Technology","Software - Infrastructure","USA",53422.32,41.40,69.93,25.30%,23530712
+25,"GDDY","Godaddy Inc","Technology","Software - Infrastructure","USA",21534.58,12.22,152.76,0.49%,1334760
+26,"GEN","Gen Digital Inc","Technology","Software - Infrastructure","USA",14924.99,25.40,24.26,-0.66%,3174299
+27,"GLW","Corning, Inc.","Technology","Electronic Components","USA",32388.24,74.68,37.85,-1.25%,5979338
+28,"HPE","Hewlett Packard Enterprise Co","Technology","Communication Equipment","USA",21730.48,12.19,16.72,-3.07%,18902889
+29,"HPQ","HP Inc","Technology","Computer Hardware","USA",31333.49,10.79,32.02,-2.14%,7601730
+30,"IBM","International Business Machines Corp.","Technology","Information Technology Services","USA",172070.82,20.59,186.80,0.00%,3799715
+31,"INTC","Intel Corp.","Technology","Semiconductors","USA",80840.43,82.71,18.99,-4.24%,97707310
+32,"INTU","Intuit Inc","Technology","Software - Application","USA",170371.75,56.32,609.45,-0.46%,1123423
+33,"IT","Gartner, Inc.","Technology","Information Technology Services","USA",36007.06,44.49,467.26,-1.23%,262011
+34,"JBL","Jabil Inc","Technology","Electronic Components","USA",11167.03,8.96,98.44,-2.01%,1319426
+35,"JNPR","Juniper Networks Inc","Technology","Communication Equipment","USA",12639.74,53.48,38.40,0.73%,4693812
+36,"KEYS","Keysight Technologies Inc","Technology","Scientific & Technical Instruments","USA",20920.36,26.15,119.86,-2.73%,2108151
+37,"KLAC","KLA Corp.","Technology","Semiconductor Equipment & Materials","USA",93794.50,34.39,697.72,-2.58%,901643
+38,"LRCX","Lam Research Corp.","Technology","Semiconductor Equipment & Materials","USA",97800.06,25.79,748.05,-2.87%,1280825
+39,"MCHP","Microchip Technology, Inc.","Technology","Semiconductors","USA",38628.00,28.77,72.00,-3.58%,8309446
+40,"MPWR","Monolithic Power System Inc","Technology","Semiconductors","USA",36905.70,90.04,757.04,-4.19%,689352
+41,"MSFT","Microsoft Corporation","Technology","Software - Infrastructure","USA",2961546.07,33.76,398.43,-0.30%,20348758
+42,"MSI","Motorola Solutions Inc","Technology","Communication Equipment","USA",67460.08,47.35,404.34,0.37%,950255
+43,"MU","Micron Technology Inc.","Technology","Semiconductors","USA",96247.32,,86.80,-2.47%,29430644
+44,"NOW","ServiceNow Inc","Technology","Software - Application","USA",159913.69,140.38,776.28,-2.10%,1061690
+45,"NTAP","Netapp Inc","Technology","Computer Hardware","USA",23892.24,25.00,116.23,-0.73%,1859247
+46,"NVDA","NVIDIA Corp","Technology","Semiconductors","USA",2433186.09,57.86,98.91,-5.12%,409043305
+47,"NXPI","NXP Semiconductors NV","Technology","Semiconductors","Netherlands",58407.04,21.42,229.29,-3.16%,2677236
+48,"ON","ON Semiconductor Corp.","Technology","Semiconductors","USA",28438.82,15.12,66.39,-3.09%,7366561
+49,"ORCL","Oracle Corp.","Technology","Software - Infrastructure","USA",346962.78,33.97,125.90,-1.80%,8613784
+50,"PANW","Palo Alto Networks Inc","Technology","Software - Infrastructure","USA",98503.20,44.28,304.21,0.76%,3564294
+51,"PTC","PTC Inc","Technology","Software - Application","USA",20083.80,68.21,167.17,-1.14%,826445
+52,"QCOM","Qualcomm, Inc.","Technology","Semiconductors","USA",173917.67,20.24,156.12,-1.64%,9254978
+53,"QRVO","Qorvo Inc","Technology","Semiconductors","USA",9542.92,,100.60,-2.35%,1309816
+54,"ROP","Roper Technologies Inc","Technology","Software - Application","USA",55234.80,38.58,515.25,-0.56%,465783
+55,"SMCI","Super Micro Computer Inc","Technology","Computer Hardware","USA",28852.51,24.76,492.70,-20.14%,18056878
+56,"SNPS","Synopsys, Inc.","Technology","Software - Infrastructure","USA",75073.20,53.31,489.97,-1.89%,1901409
+57,"STX","Seagate Technology Holdings Plc","Technology","Computer Hardware","USA",19358.50,60.28,92.10,-1.69%,3285922
+58,"SWKS","Skyworks Solutions, Inc.","Technology","Semiconductors","USA",15400.20,19.89,96.42,-2.83%,2893484
+59,"TDY","Teledyne Technologies Inc","Technology","Scientific & Technical Instruments","USA",18928.12,22.01,404.62,-0.47%,183665
+60,"TEL","TE Connectivity Ltd","Technology","Electronic Components","Switzerland",43147.52,12.78,141.97,-0.67%,2478401
+61,"TER","Teradyne, Inc.","Technology","Semiconductor Equipment & Materials","USA",18643.32,37.61,114.25,-3.44%,2599169
+62,"TRMB","Trimble Inc","Technology","Scientific & Technical Instruments","USA",12354.58,8.26,50.59,-1.82%,2821191
+63,"TXN","Texas Instruments Inc.","Technology","Semiconductors","USA",168065.12,31.93,184.07,-1.54%,5010342
+64,"TYL","Tyler Technologies, Inc.","Technology","Software - Application","USA",24257.04,117.82,568.48,-0.38%,223996
+65,"VRSN","Verisign Inc.","Technology","Software - Infrastructure","USA",17101.47,20.97,175.22,-1.10%,1123495
+66,"WDC","Western Digital Corp.","Technology","Computer Hardware","USA",18366.75,,56.25,-1.97%,8197188
+67,"ZBRA","Zebra Technologies Corp.","Technology","Communication Equipment","USA",16229.65,70.91,314.65,-0.60%,529657

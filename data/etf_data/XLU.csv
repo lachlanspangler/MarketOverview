@@ -1,0 +1,32 @@
+"No.","Ticker","Company","Sector","Industry","Country","Market Cap","P/E","Price","Change","Volume"
+1,"AEE","Ameren Corp.","Utilities","Utilities - Regulated Electric","USA",21476.34,18.23,80.49,-0.09%,1695627
+2,"AEP","American Electric Power Company Inc.","Utilities","Utilities - Regulated Electric","USA",52983.19,19.87,99.57,1.30%,4489977
+3,"AES","AES Corp.","Utilities","Utilities - Diversified","USA",11651.98,15.63,16.39,-0.79%,7055475
+4,"ATO","Atmos Energy Corp.","Utilities","Utilities - Regulated Gas","USA",19327.73,19.20,128.10,0.45%,1097844
+5,"AWK","American Water Works Co. Inc.","Utilities","Utilities - Regulated Water","USA",28018.92,29.33,143.79,0.13%,797404
+6,"CEG","Constellation Energy Corporation","Utilities","Utilities - Renewable","USA",56636.02,23.94,179.66,-0.76%,6154534
+7,"CMS","CMS Energy Corporation","Utilities","Utilities - Regulated Electric","USA",19584.74,20.18,65.56,1.02%,1984532
+8,"CNP","Centerpoint Energy Inc.","Utilities","Utilities - Regulated Electric","USA",16453.69,15.86,25.63,-0.54%,11056922
+9,"D","Dominion Energy Inc","Utilities","Utilities - Regulated Electric","USA",46217.20,29.68,55.09,1.70%,4275647
+10,"DTE","DTE Energy Co.","Utilities","Utilities - Regulated Electric","USA",24863.10,17.93,120.10,0.87%,1012215
+11,"DUK","Duke Energy Corp.","Utilities","Utilities - Regulated Electric","USA",87603.61,20.32,113.51,0.52%,4921349
+12,"ED","Consolidated Edison, Inc.","Utilities","Utilities - Regulated Electric","USA",35026.92,19.68,101.19,0.30%,2139805
+13,"EIX","Edison International","Utilities","Utilities - Regulated Electric","USA",31527.73,32.82,81.64,0.13%,1484754
+14,"ES","Eversource Energy","Utilities","Utilities - Regulated Electric","USA",23351.21,,65.34,-0.23%,1887127
+15,"ETR","Entergy Corp.","Utilities","Utilities - Regulated Electric","USA",25013.83,13.98,116.98,0.71%,1917539
+16,"EVRG","Evergy Inc","Utilities","Utilities - Regulated Electric","USA",13572.77,19.10,59.03,0.43%,1884979
+17,"EXC","Exelon Corp.","Utilities","Utilities - Regulated Electric","USA",37858.92,15.61,37.84,0.67%,6224691
+18,"FE","Firstenergy Corp.","Utilities","Utilities - Regulated Electric","USA",24136.81,27.59,41.91,-0.55%,3282312
+19,"LNT","Alliant Energy Corp.","Utilities","Utilities - Regulated Electric","USA",14346.05,22.85,55.93,0.34%,1302438
+20,"NEE","NextEra Energy Inc","Utilities","Utilities - Regulated Electric","USA",159412.94,25.19,77.56,0.77%,8189622
+21,"NI","NiSource Inc","Utilities","Utilities - Regulated Gas","USA",13942.44,20.33,31.10,0.52%,5596578
+22,"NRG","NRG Energy Inc.","Utilities","Utilities - Independent Power Producers","USA",15025.15,10.00,72.07,1.24%,4235200
+23,"PCG","PG&E Corp.","Utilities","Utilities - Regulated Electric","USA",38559.78,15.31,18.04,1.29%,7722472
+24,"PEG","Public Service Enterprise Group Inc.","Utilities","Utilities - Regulated Electric","USA",39339.70,23.92,78.97,0.70%,2616532
+25,"PNW","Pinnacle West Capital Corp.","Utilities","Utilities - Regulated Electric","USA",9694.34,15.79,85.33,0.01%,769374
+26,"PPL","PPL Corp","Utilities","Utilities - Regulated Electric","USA",22501.99,26.86,30.50,0.89%,8403123
+27,"SO","Southern Company","Utilities","Utilities - Regulated Electric","USA",95545.02,20.81,87.29,0.97%,5028668
+28,"SRE","Sempra","Utilities","Utilities - Diversified","USA",48893.99,16.50,77.26,0.27%,4243550
+29,"VST","Vistra Corp","Utilities","Utilities - Independent Power Producers","USA",25694.67,47.95,73.95,-0.59%,8852344
+30,"WEC","WEC Energy Group Inc","Utilities","Utilities - Regulated Electric","USA",28115.32,20.54,88.95,0.54%,3037167
+31,"XEL","Xcel Energy, Inc.","Utilities","Utilities - Regulated Electric","USA",32535.70,17.44,58.36,0.86%,2767002
